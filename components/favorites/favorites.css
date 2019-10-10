@@ -1,0 +1,42 @@
+.cs142-favorites-title {
+	font-weight: bold;
+	font-size: 25px;
+	margin: 10px;
+	margin-top: 20px;
+}
+
+.cs142-favorites-item {
+	display: inline-block;
+}
+
+.cs142-favorites-button {
+	position: relative;
+	right: 25px;
+	bottom: 136px;
+	background-color: red;
+	color: white;
+	font-weight: bold;
+}
+
+.cs142-favorites-list {
+	margin-left: 10px;
+}
+
+.cs142-favorites-modal {
+	position: absolute;
+	top: 15%;
+	left: 25%;
+	height: 70%;
+	width: 50%;
+	min-width: 510px;
+	border: 5px solid #ee6e73;
+	text-align: center;
+}
+
+.cs142-favorites-caption {
+	font-weight: bold;
+}
+
+.cs142-favorites-modalImage {
+	max-height: 485px;
+}

@@ -1,0 +1,106 @@
+
+.cs142-userPhotos-date {
+	text-align: left;
+	color: #ee6e73;
+}
+
+.cs142-userPhotos-name {
+	font-weight: bold;
+	display: inline;
+}
+
+.cs142-userPhotos-commentText {
+	display: inline;
+}
+
+.cs142-userPhotos-date2 {
+	display: inline;
+	color: gray;
+	font-size: 12px;
+}
+
+.cs142-userPhotos-space {
+	height: 30px;
+}
+
+.cs142-userPhotos-button {
+	font-weight: bold;
+}
+
+.cs142-userPhotos-inputLine {
+	margin-bottom: 25px;
+}
+
+.cs142-userPhotos-delete {
+	color: red;
+	margin-left: 5px;
+	font: 10pt;
+}
+
+.cs142-userPhotos-delete2 {
+	color: red;
+	font: 10pt;
+	font-weight: bold;
+	margin-left: 5px;
+}
+
+.cs142-userPhotos-liking {
+	display: inline-block;
+	background-color: green;
+	color: white;
+	font-size: 16px;
+	padding: 5px;
+	border-radius: 5px 5px 5px 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 75px;
+	height: 35px;
+}
+
+.cs142-userPhotos-unliking {
+	display: inline-block;
+	background-color: red;
+	color: white;
+	font-size: 16px;
+	padding: 5px;
+	border-radius: 5px 5px 5px 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	width: 75px;
+	height: 35px;
+}
+
+.cs142-userPhotos-number {
+	display: inline-block;
+	padding: 5px;
+	border-radius: 5px 5px 5px 5px;
+	background-color: #ee6e73;
+	font-size: 16px;
+	width: 30px;
+	text-align: center;
+	color: white;
+	margin-left: 5px;
+	height: 33px;
+}
+
+.cs142-userPhotos-favorite{
+	display: inline-block;
+	padding: 5px;
+	border-radius: 5px 5px 5px 5px;
+	background-color: purple;
+	font-size: 16px;
+	width: 30px;
+	text-align: center;
+	color: white;
+	margin-left: 5px;
+	width: 75px;
+	height: 35px;
+}
+
+.cs142-userPhotos-favorited {
+	display: inline-block;
+	margin-left: 10px;
+	color: purple;
+	font-weight: bold;
+	font-size: 16px;
+}

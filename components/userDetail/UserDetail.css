@@ -1,0 +1,49 @@
+.cs142-userDetail-link {
+	font-size: 20px;
+	background-color: #ee6e73;
+	margin-top: 20px;
+	margin-left: 10px;
+	height: 30px;
+	width: 75px;
+	text-align: center;
+	border-radius: 5px 5px 5px 5px;
+}
+
+.cs142-userDetail-name {
+	font-weight: bold;
+	font-size: 25px;
+	margin: 10px;
+}
+
+.cs142-userDetail-info {
+	margin-top: 10px;
+	margin-left: 10px;
+
+}
+
+.cs142-userDetail-elem {
+	margin-top: 10px;
+}
+
+.cs142-userDetail-delete {
+	font-size: 12px;
+	margin-top: 14px;
+	margin-left: 10px;
+	color: red;
+	font-weight: bold;
+}
+
+.cs142-userDetail-warning {
+	margin-left: 10px;
+	margin-top: 10px;
+	color: red;
+}
+
+.cs142-userDetail-warnMessage {
+	font-style: italic;
+}
+
+.cs142-userDetail-yes {
+	margin-left: 5px;
+	margin-right: 5px;
+}

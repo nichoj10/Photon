@@ -1,0 +1,22 @@
+#cs142-TopBar-greeting {
+	margin-left: 10px;
+	font-size: 20px;
+	font-style: italic;
+}
+
+#cs142-TopBar-rightButtons {
+	margin-right: 20px;
+	font-size: 18px;
+}
+
+.cs142-TopBar-upload {
+	margin: 5px;
+}
+
+.cs142-TopBar-logout {
+	font-weight: bold;
+}
+
+.cs142-TopBar-favorites {
+	margin-right: 10px;
+}
